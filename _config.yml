@@ -1,1 +1,18 @@
+# Site wide configuration
+
+title: Tanzu, a new shape of IT
+locale: en_US
+logo: # filename of a logo image that has been placed into your images directory
+
+# Enter the following platform usernames if you would like for them to appear on your site.
+owner:
+  name: Nicola Marco Decandia
+  avatar: bio-photo.jpg
+  bio: "A blog for a new world."
+  email: nicola@decandia.eu 
+  # Do not include the @ symbol in your Twitter username
+  twitter: nicolanostop
+  linkedin: nicolamarcodecandia
+  github: ndecandia
+
 theme: jekyll-theme-hacker
