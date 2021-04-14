@@ -4,15 +4,21 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Nicola Marco Decandia
+Head of DevOps @Desotech
+VMware PSO Consulting
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+18+ YOE Cloud,NFV,SDN,VMWare,AWS,Azure,VCenter,Vrealize,Linux,Design,Integration,Configuration for Cloud, System Center, vSphere, vCloud, Horizon, VDI.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I'm an experienced architect with a demonstrated history of working in the computer software industry. During last 16 years I got the most difficult certification in IT industry, so now I'm an Instructor Certified as VMware Certified Instructor (VCI), Microsoft Certified Trainer (MCT) and SUSE Certified Instructor(SCI). I'm a freelance working directly for VMware and HPE EMEA, I do training and consulting as integration of the virtualized environment with modern containerized enterprise architecture. Project management knowledge with acquisition of ITIL and PRINCE2 Practitioner Certification.
+
+Strengths and Competencies:
+- Solution Architect ,Solution Design Integration configuration for Cloud SDN, DevOps, AWS, Azure, Hyper-v, Vsphere, OpenStack, NSX-t.
+- DevOps Apache, NGINX, GitHub, SVN, Jenkins, Docker, Swarm, Kubernetes, Chef, Puppet, VMware vRealize Cloud Suite, Nagios, YAML and Python Scripting,Automation.
+- Solution Design for Azure Environment, Azure Container Instances, VMware vSphere on AWS, VMware vCloud, VMware Horizon, VMware vRealize, Elastic Load Balancing Auto Scaling.
+- RestFul WebServices, JASON,YAML.
+- C Level Presentations.Consulting,Trainings
+- Frequent Traveling.
+- Convincing Leadership Capability. 
 
 
-[jekyll-organization]: https://github.com/jekyll
