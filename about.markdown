@@ -9,9 +9,9 @@ Nicola Marco Decandia
 <p>Head of DevOps @[VMware](https://www.deso.tech)</p>
 VMware PSO Consulting
 
-![VMware](images/ndecandia_certs/certification-VCI.png) | ![SUSE](images/ndecandia_certs/certification-sci.jpg) | ![Docker](images/ndecandia_certs/certification-DAI.png)
+![VMware](images/ndecandia_certs/certification-VCI.png) | ![SUSE](images/ndecandia_certs/certification-sci.png) | ![Docker](images/ndecandia_certs/certification-DAI.png)
 ---------|----------|---------
-![AWS](images/ndecandia_certs/certification-aai.png) | ![GCP](images/ndecandia_certs/certification-gcp.png) | ![Microsoft](images/ndecandia_certs/certification-mct.png)
+![AWS](images/ndecandia_certs/certification-aai.jpeg) | ![GCP](images/ndecandia_certs/certification-gcp.jpg) | ![Microsoft](images/ndecandia_certs/certification-mct.jpg)
 ![vexpert](images/ndecandia_certs/vexpert2021.png) | ![lfce](images/ndecandia_certs/lfce.png) | ![LFTP](images/ndecandia_certs/LFTP.png)
 
 
