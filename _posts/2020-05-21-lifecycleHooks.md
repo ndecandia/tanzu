@@ -7,7 +7,7 @@ category: blog
 # Lifecycle Hooks
 
 
-![Lifecycle Hooks](images/lifecycle.png)
+![Lifecycle Hooks](/images/lifecycle.png)
 
 `kubelet` can run code triggered by Container Lifecycle Hooks. This allows the user to run specific code during
 specific events of a containers lifecycle.
@@ -16,7 +16,7 @@ For example: running a graceful shutdown script before a container is terminated
 
 There are two hooks which are exposed:
 
-![Containers Hooks](images/containerHook.png)
+![Containers Hooks](/images/containerHook.png)
 
 - **PostStart** : This hook gets executed upon container creation but there is no guarantee that it will run after the
   container `ENTRYPOINT`.

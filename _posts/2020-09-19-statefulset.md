@@ -31,7 +31,7 @@ each pod through the headless `Service`. For details about the `Service`, see `S
 `PersistentVolumeClaims` (PVCs) with fixed identifiers to ensure that pods can access the same persistent data after
 being rescheduled.
 
-![StatefulSet Example IMG](images/statefulset01.png)
+![StatefulSet Example IMG](/images/statefulset01.png)
 
 The following describes how to create a StatefulSet and experience its features.
 
@@ -456,7 +456,7 @@ The new IP address come out. Automatic domain name resolution.
 As mentioned above, `StatefulSet`s can use `PVC`s for persistent storage to ensure that the same persistent data can be
 accessed after pods are rescheduled. When pods are deleted, `PVC`s are not deleted.
 
-![Process for a StatefulSet to re-create a pod](images/statefulset02.png)
+![Process for a StatefulSet to re-create a pod](/images/statefulset02.png)
 
 Run the following command to write some data into the `/usr/share/nginx/html` directory of `statefulset-nginx-1`.
 For example, change the content of `index.html` to `hello Desotech Student`.

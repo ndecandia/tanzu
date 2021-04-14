@@ -27,7 +27,7 @@ Today we will deploy a Production grade Prometheus based monitoring system, in l
 5. `Grafana` server to create dashboards based on prometheus data.
 
 
-![monitoring](images/monitoring.jpeg)
+![monitoring](/images/monitoring.jpeg)
 
 ```bash
 kubectl get nodes
@@ -376,7 +376,7 @@ Please write down this link referenced as Prometheus Console, we will use it lat
 It should be noted that under the `Status > Targets` section all the scraped endpoints are visible and under `Alerts`
 section all the configured alerts can be seen.
 
-![monitoring](images/prometheus01.png)
+![monitoring](/images/prometheus01.png)
 
 
 ## Deploy Node Exporter
@@ -388,7 +388,7 @@ would do with `netstat`?
 
 The Prometheus Node Exporter exposes a wide variety of hardware and kernel-related metrics.
 
-![Node-Exporter](images/node-exporter01.png)
+![Node-Exporter](/images/node-exporter01.png)
 
 Prometheus scrapes targets and the node exporter is just one of them.
 
@@ -419,7 +419,7 @@ In my example are `http://10.10.99.121:8080/`
 
 Click on `Status > Target`:
 
-![Prometheus-Target](images/prometheus03.png)
+![Prometheus-Target](/images/prometheus03.png)
 
 You should have 3 targets:
 
@@ -486,7 +486,7 @@ Open again your Prometheus Expression Browser
 
 Click on `Status > Target`
 
-![Prometheus-Target](images/prometheus04.png)
+![Prometheus-Target](/images/prometheus04.png)
 
 That's it – nothing else is necessary to get your machine-level metrics into Prometheus.
 With the configuration we used in our example, Prometheus will automatically scrape all node exporters for metrics,
