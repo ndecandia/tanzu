@@ -6,17 +6,14 @@ permalink: /about/
 
 Nicola Marco Decandia
 
-Head of DevOps @Desotech</br>
+<p>Head of DevOps @[VMware](https://www.deso.tech)</p>
 VMware PSO Consulting
 
-![VMware](images/ndecandia_certs/certification-VCI.png)
-
-
-Column A | Column B | Column C
+![VMware](images/ndecandia_certs/certification-VCI.png) | ![SUSE](images/ndecandia_certs/certification-sci.jpg) | ![Docker](images/ndecandia_certs/certification-DAI.png)
 ---------|----------|---------
- A1 | B1 | C1
- A2 | B2 | C2
- A3 | B3 | C3
+![AWS](images/ndecandia_certs/certification-aai.png) | ![GCP](images/ndecandia_certs/certification-gcp.png) | ![Microsoft](images/ndecandia_certs/certification-mct.png)
+![vexpert](images/ndecandia_certs/vexpert2021.png) | ![lfce](images/ndecandia_certs/lfce.png) | ![LFTP](images/ndecandia_certs/LFTP.png)
+
 
 
 18+ YOE Cloud,NFV,SDN,VMWare,AWS,Azure,VCenter,Vrealize,Linux,Design,Integration,Configuration for Cloud, System Center, vSphere, vCloud, Horizon, VDI.
@@ -32,4 +29,4 @@ Strengths and Competencies:
 - Frequent Traveling.
 - Convincing Leadership Capability. 
 
-
+You can see my badge here: [Acclaim Badge](https://www.credly.com/users/nicola-marco-decandia/badges)
