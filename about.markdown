@@ -6,8 +6,8 @@ permalink: /about/
 
 Nicola Marco Decandia
 
-<p>Head of DevOps @[VMware](https://www.deso.tech)</p>
-VMware PSO Consulting
+<p>Head of DevOps @ [Desotech](https://www.deso.tech) </p>
+<p>PSO Consulting @ [VMware](https://www.vmware.com) </p>
 
 ![VMware](images/ndecandia_certs/certification-VCI.png) | ![SUSE](images/ndecandia_certs/certification-sci.png) | ![Docker](images/ndecandia_certs/certification-DAI.png)
 ---------|----------|---------
