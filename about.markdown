@@ -5,8 +5,12 @@ permalink: /about/
 ---
 
 Nicola Marco Decandia
+
 Head of DevOps @Desotech
+
 VMware PSO Consulting
+
+
 
 18+ YOE Cloud,NFV,SDN,VMWare,AWS,Azure,VCenter,Vrealize,Linux,Design,Integration,Configuration for Cloud, System Center, vSphere, vCloud, Horizon, VDI.
 
