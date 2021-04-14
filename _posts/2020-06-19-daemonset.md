@@ -11,11 +11,26 @@ category: blog
 
 First of all, we need to create a daemonset. Create the following file:
 
-<!--codeinclude-->
-[ds.yaml](assets/daemonset/ds.yaml)
-<!--/codeinclude-->
-
-[Download `ds.yaml` here](assets/daemonset/ds.yaml).
+```yaml
+apiVersion: apps/v1
+kind: DaemonSet
+metadata:
+  name: ds-one
+spec:
+  selector:
+    matchLabels:
+      system: ds-one
+  template:
+    metadata:
+      labels:
+        system: ds-one
+    spec:
+      containers:
+      - name: nginx
+        image: r.deso.tech/library/nginx
+        ports:
+        - containerPort: 80
+```
 
 Apply the file:
 
