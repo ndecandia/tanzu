@@ -6,10 +6,17 @@ permalink: /about/
 
 Nicola Marco Decandia
 
-Head of DevOps @Desotech
-
+Head of DevOps @Desotech</br>
 VMware PSO Consulting
 
+![VMware](images/ndecandia_certs/certification-VCI.png)
+
+
+Column A | Column B | Column C
+---------|----------|---------
+ A1 | B1 | C1
+ A2 | B2 | C2
+ A3 | B3 | C3
 
 
 18+ YOE Cloud,NFV,SDN,VMWare,AWS,Azure,VCenter,Vrealize,Linux,Design,Integration,Configuration for Cloud, System Center, vSphere, vCloud, Horizon, VDI.
