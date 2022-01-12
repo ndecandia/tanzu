@@ -43,17 +43,16 @@ the doenloaded file result in .mub format
 ![linux add host IMG](/images/upgrade-button.png)
 
 
-![linux loading config](/images/upload-load.png)
+![linux finish config](/images/upload-completed.png) 
 
 few minutes and the upload and the check completes:
-
-![linux finish config](/images/upload-completed.png)  
+![linux loading config](/images/upload-load.png) 
 
 In this moment, the upgrade bundle is uploaded and we need to clic UPGRADE
 then accept the EULA and press continue. Waith the Extraction of the bundle.
 ![linux tn ready](/images/Upgrade-bigbutton.png)
 
-5. Now perform the pre-checks on EDGES, Hosts and NSX-T managers:
+1. Now perform the pre-checks on EDGES, Hosts and NSX-T managers:
 - press RUN PRE CHECKS button → All Pre-Checks → RUN PRE CHECKS
 - wait until the pre-check process is ended
 ![precheck](/images/pre-checks.png) 
